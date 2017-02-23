@@ -9,7 +9,7 @@ for(var i=0 ; i< arreglo.length ;i++){
           "<ul>" +
           "<li>Nombre: " + arreglo[i].nombre + "</li>" +
           "<li>Apellido: " + arreglo[i].apellido  + "</li>" +
-          "<li>DNI: " + arreglo[i].rol  + "</li>" +
+          "<li>Rol: " + arreglo[i].rol  + "</li>" +
           "<li>Dirección: " + arreglo[i].cumpleanios  + "</li>" +
         "</ul>";
 
